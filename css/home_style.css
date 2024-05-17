@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+}
+
+.category {
+  display: flex;
+  padding: 15px 0 0;
+  margin: 0 0 15px;
+
+
+  div {
+    width: 50%;
+    text-align: center;
+  }
+}
+
+
+.products {
+  width: 700px;
+  margin: 20px auto;
+}
+
+.add-to-cart-box {
+  margin: 0 0 20px;
+  text-align: center;
+}
+
+.customer {
+  width: 700px;
+  margin: 20px auto;
+}
